@@ -1,0 +1,2 @@
+# premium-spring-001-leaf-spring-tempering-color-an
+Stop guessing the perfect tempering color for your leaf springs — track every quench and achieve consistent hardness every time.  This Notion template solves the inconsistency in leaf spring heat treatment by providing a structured record for tempering colors and quench details. Replicate successful batches and eliminate scrap from wrong color or q
